@@ -1,2 +1,3 @@
-# santander-customer-satisfaction
-🤝Binary classification model for the Santander Customer Satisfaction competion hosted on Kaggle.
+# Predicting customer satisfaction using Classification
+**Machine Learning Zoomcamp - Midterm Project**  
+Binary classification project for the Santander Customer Satisfaction competition hosted on Kaggle.  
